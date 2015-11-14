@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="Preferencias">
+    <ListPreference
+        android:key="chave"
+        android:title="Ruta"
+        android:defaultValue="/DATOS/"
+        />
+</PreferenceScreen>
